@@ -1,0 +1,53 @@
+{
+    "items":[
+        {
+            "brand":"Nike",
+            "description":"Men Black Printed DRI-FIT AS M NK DRY TEE LGD ADRENALINE T-shirt",
+            "size" :"Medium",
+            "quantity":"1",
+            "price":"450",
+            "imgUrl":"src/images/tshirt1.jpg"
+        },{
+            "brand":"ether",
+            "description":"e+ Men Teal Solid Round Neck T-shirt",
+            "size" :"Medium",
+            "quantity":"1",
+            "price":"419", 
+            "imgUrl":"src/images/tshirt3.jpg"
+        },
+        {
+            "brand":"Nike",
+            "description":"Men Purple ELEMENT DRI-FIT Technology Running Hooded Standard Fit T-shirt",
+            "size" :"Large",
+            "quantity":"2",
+            "price":"550",
+            "imgUrl":"src/images/tshirt2.jpg"
+        }
+        
+    ],
+    "suggestionCarousel":[
+        {
+            "imgUrl":"src/images/suggestion1.jpg",
+            "price":"550",
+            "brand":"ether",
+            "description":"e+ Men Teal Solid Round Neck T-shirt",
+            "size" :"Medium"
+        },
+        {
+            "imgUrl":"src/images/suggestion2.jpg",
+            "price":"550",
+            "brand":"Nike",
+            "description":"Men Purple ELEMENT DRI-FIT Technology Running Hooded Standard Fit T-shirt",
+            "size" :"Large"
+        },
+        {
+            "imgUrl":"src/images/suggestion3.jpg",
+            "price":"550",
+            "brand":"Nike",
+            "description":"Men Purple ELEMENT DRI-FIT Technology Running Hooded Standard Fit T-shirt",
+            "size" :"Large"
+        }
+
+    ]
+
+}
